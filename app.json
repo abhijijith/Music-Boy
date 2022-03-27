@@ -3,7 +3,7 @@
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by OpusTechz.",
   "keywords": ["music", "voicechat", "telegram"],
   "logo": "https://telegra.ph/file/28159f7bf8c768ebc635d.jpg",
-  "repository": "https://github.com/Aadhi000/Music-Boy",
+  "repository": "https://github.com/abhijijith",
   "stack": "container",
   "env": {
     "SESSION_NAME": {
